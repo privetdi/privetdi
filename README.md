@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <th><a href="https://hh.ru/resume/d757f5cfff0bf125a10039ed1f5a694a477a67">My CV</a></th>
+    <th><a href="https://hh.ru/resume/d757f5cfff0bf125a10039ed1f5a694a477a67">My CV hh.ru</a></th>
     <th><a href="https://www.linkedin.com/in/dmitry-lapko-770397272/"><img src="https://img.icons8.com/color/1x/linkedin-circled.png"></img></a></th>
     <th><a href="https://t.me/priveet_di"><img src="https://img.icons8.com/color/1x/telegram-app"></img></a></th>
     <th><a href="https://wa.me/89880913383"><img src="https://img.icons8.com/color/1x/apple-phone.png"></img></a></th>
